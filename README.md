@@ -838,4 +838,3 @@ These techniques prevent users from using outdated cached resources and help mai
 ---
 
 These are explanations and examples for the JavaScript edge cases and best practices you've requested. Feel free to refer to this Markdown file for reference or ask any specific questions you may have about individual topics.
-
