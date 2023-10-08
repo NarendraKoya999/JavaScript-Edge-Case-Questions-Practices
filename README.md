@@ -1,4 +1,4 @@
-# JavaScript Edge Cases and Best Practices
+# JavaScript Edge Cases⏩ and Best Practices✅
 
 ## Strict vs. Non-strict Comparison
 
